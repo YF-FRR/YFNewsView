@@ -45,11 +45,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		595F76D5207F03F7001B7186 = {
+		593969D82085DAE500F6F8E2 /* YFNewsViewPod */ = {
 			isa = PBXGroup;
 			children = (
 				595F76FB207F0B2E001B7186 /* UIView+Extension.h */,
 				595F76FA207F0B2E001B7186 /* UIView+Extension.m */,
+				595F76F7207F041F001B7186 /* YFNewsView.h */,
+				595F76F8207F041F001B7186 /* YFNewsView.m */,
+			);
+			path = YFNewsViewPod;
+			sourceTree = "<group>";
+		};
+		595F76D5207F03F7001B7186 = {
+			isa = PBXGroup;
+			children = (
+				593969D82085DAE500F6F8E2 /* YFNewsViewPod */,
 				595F76E0207F03F7001B7186 /* YFNewsView */,
 				595F76DF207F03F7001B7186 /* Products */,
 			);
@@ -70,8 +80,6 @@
 				595F76E2207F03F7001B7186 /* AppDelegate.m */,
 				595F76E4207F03F7001B7186 /* ViewController.h */,
 				595F76E5207F03F7001B7186 /* ViewController.m */,
-				595F76F7207F041F001B7186 /* YFNewsView.h */,
-				595F76F8207F041F001B7186 /* YFNewsView.m */,
 				595F76E7207F03F7001B7186 /* Main.storyboard */,
 				595F76EA207F03F7001B7186 /* Assets.xcassets */,
 				595F76EC207F03F7001B7186 /* LaunchScreen.storyboard */,
