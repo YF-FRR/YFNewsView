@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
             测试创建pod库
                    DESC
 
-  s.homepage     = "https://github.com/YFXPP/YFNewsView/YFNewsViewPod"
+  s.homepage     = "https://github.com/YFXPP/YFNewsView/tree/master/YFNewsViewPod"
 
 
   s.license      = "MIT"

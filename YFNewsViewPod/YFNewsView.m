@@ -75,8 +75,8 @@
 }
 
 -(void)clickNews:(UITapGestureRecognizer *)tap{
-    NSInteger index = self.index + tap.view.tag % 2;
-    NSLog(@"%ld",index);
+//    NSInteger index = self.index + tap.view.tag % 2;
+//    NSLog(@"%ld",index);
 //    YF_SAFE_BLOCK(self.clickBlock,index,@"");
 }
 
